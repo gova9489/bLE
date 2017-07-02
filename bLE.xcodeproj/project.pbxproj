@@ -12,7 +12,6 @@
 		4802C4871F007B4A0044A4BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4802C4851F007B4A0044A4BE /* Main.storyboard */; };
 		4802C4891F007B4A0044A4BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4802C4881F007B4A0044A4BE /* Assets.xcassets */; };
 		4802C48C1F007B4A0044A4BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4802C48A1F007B4A0044A4BE /* LaunchScreen.storyboard */; };
-		481A88C01F08540200018B4D /* ConnectTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 481A88BF1F08540200018B4D /* ConnectTableVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		4802C4881F007B4A0044A4BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4802C48B1F007B4A0044A4BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4802C48D1F007B4A0044A4BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		481A88BF1F08540200018B4D /* ConnectTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectTableVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +56,6 @@
 			children = (
 				4802C4811F007B4A0044A4BE /* AppDelegate.swift */,
 				4802C4831F007B4A0044A4BE /* ViewController.swift */,
-				481A88BF1F08540200018B4D /* ConnectTableVC.swift */,
 				4802C4851F007B4A0044A4BE /* Main.storyboard */,
 				4802C4881F007B4A0044A4BE /* Assets.xcassets */,
 				4802C48A1F007B4A0044A4BE /* LaunchScreen.storyboard */,
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4802C4841F007B4A0044A4BE /* ViewController.swift in Sources */,
-				481A88C01F08540200018B4D /* ConnectTableVC.swift in Sources */,
 				4802C4821F007B4A0044A4BE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
