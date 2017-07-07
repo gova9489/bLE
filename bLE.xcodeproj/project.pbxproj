@@ -12,6 +12,7 @@
 		4802C4871F007B4A0044A4BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4802C4851F007B4A0044A4BE /* Main.storyboard */; };
 		4802C4891F007B4A0044A4BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4802C4881F007B4A0044A4BE /* Assets.xcassets */; };
 		4802C48C1F007B4A0044A4BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4802C48A1F007B4A0044A4BE /* LaunchScreen.storyboard */; };
+		48D5B9AD1F0EED86006D3C46 /* DeviceCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48D5B9AB1F0EED86006D3C46 /* DeviceCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4802C4881F007B4A0044A4BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4802C48B1F007B4A0044A4BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4802C48D1F007B4A0044A4BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48D5B9AB1F0EED86006D3C46 /* DeviceCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4802C4811F007B4A0044A4BE /* AppDelegate.swift */,
 				4802C4831F007B4A0044A4BE /* ViewController.swift */,
 				4802C4851F007B4A0044A4BE /* Main.storyboard */,
+				48D5B9AB1F0EED86006D3C46 /* DeviceCell.swift */,
 				4802C4881F007B4A0044A4BE /* Assets.xcassets */,
 				4802C48A1F007B4A0044A4BE /* LaunchScreen.storyboard */,
 				4802C48D1F007B4A0044A4BE /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				4802C4841F007B4A0044A4BE /* ViewController.swift in Sources */,
 				4802C4821F007B4A0044A4BE /* AppDelegate.swift in Sources */,
+				48D5B9AD1F0EED86006D3C46 /* DeviceCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
